@@ -1,0 +1,5 @@
+	  char *sequence2, int direction, double z_score, double energy,
+  double end_score;
+  double scan_score = 0;
+  double z_score = 0;
+  double score = 0;
